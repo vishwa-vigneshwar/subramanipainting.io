@@ -61,7 +61,7 @@ Edit
 1. **Clone or Download the Repository:**
 
    ```bash
-   git clone https://github.com.git
+   git clone [https://github.com.git](https://vishwa-vigneshwar.github.io/subramanipainting.io/)
 Open the Project:
 Simply open the index.html file in your preferred web browser.
 You can also run a local development server if needed.
